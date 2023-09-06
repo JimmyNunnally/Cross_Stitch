@@ -1,0 +1,6 @@
+1) Use KERASCV library for faster pixel porcesssing times. DOnt use RGB scale
+Use in either pytorch or tensorflow, pytorch appears to be preferred
+https://keras.io/guides/functional_api/
+https://www.tensorflow.org/tutorials/images
+
+2) Cluster similar colors together. Kmeans appears to be the preferred method.
